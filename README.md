@@ -1,1 +1,1 @@
-Cloud Solution Architect
+amin.tech
