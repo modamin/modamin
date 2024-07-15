@@ -1,1 +1,1 @@
-I am a Solutions Architect focused on designing cloud data platforms that align with business and IT goals. My expertise lies in designing and implementing advanced data, analytics, and AI technologies, as well as advocating for cloud adoption to drive business transformation.
+I am a Data Engineer and Architect focused on building effective cloud data platforms. I specialize in the Microsoft Data ecosystem including: SQL Server, Microsoft Fabric, Power BI, Azure Databricks, Azure Data Factory, and Microsoft Purview. I write Python and SQL. 
