@@ -1,1 +1,1 @@
-Mohamed Amin - Data Solution Architect
+I am a Solutions Architect focused on designing cloud data platforms that align with business and IT goals. My expertise lies in designing and implementing advanced data, analytics, and AI technologies, as well as advocating for cloud adoption to drive business transformation.
