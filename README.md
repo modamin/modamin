@@ -1,1 +1,1 @@
-Data Engineer & Architect with experience designing, building, and deploying cloud data solutions.
+Data Engineer & Architect building cloud data solutions. 
